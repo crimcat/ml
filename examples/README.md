@@ -8,11 +8,11 @@
 ### Handwritten digits recognition by simple NN
 Задача распознавания рукописного текста (цифр от 0 до 9) с помощью простейшей нейронной сети (2 слоя). Пример использования Keras и Tensorflow.
 
-### Handwritten digits recognition by simple autoencoder and clustering
-Задача распознавания рукописного текста (цифр от 0 до 9) с помощью простейшего автоэнкодера для снижения размерности и кластеризации на основе K-Means.
+### Handwritten digits recognition - using simple autoencoder
+Задача распознавания рукописного текста (цифр от 0 до 9) с помощью простейшего автоэнкодера для снижения размерности.
 
-### Handwrotten digits recognition by deep autoencoder and clustering
-Задача распознавания рукописного текста (цифр от 0 до 9) с помощью глубинного автоэнкодера для снижения размерности и кластеризации на основе K-Means.
+### Handwrotten digits recognition - using deep autoencoder
+Задача распознавания рукописного текста (цифр от 0 до 9) с помощью глубинного автоэнкодера для снижения размерности.
 
-### Handwritten digits recognition by convolutional autoencoder and clustering
-Задача распознавания рукописного текста (цифр от 0 до 9) с помощью свёрточного автоэнкодера для снижения размерности и кластеризации на основе K-Means.
+### Handwritten digits recognition - using convolutional autoencoder
+Задача распознавания рукописного текста (цифр от 0 до 9) с помощью свёрточного автоэнкодера для снижения размерности.
