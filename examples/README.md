@@ -17,8 +17,6 @@
 ### Handwritten digits recognition - using convolutional autoencoder
 Задача распознавания рукописного текста (цифр от 0 до 9) с помощью свёрточного автоэнкодера для снижения размерности.
 
-### Xor MLP
-Пример обучения нейронной сети для простых булевских функций (xor). Сохранение модели в H5 и TF, конвертация в ONNX:
 ```bash
    python -m tf2onnx.convert --saved-model xor.tf --output xor2.onnx
 ```
